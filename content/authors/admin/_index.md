@@ -1,41 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Carlos Bornes
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Carlos
+last_name: Bornes
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Charles University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Solid-state Nuclear Magnetic Resonance (NMR)
+  - Computational modelling
+  - Porous materials
+  - Machine Learning
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in NMR applied to Materials
+      institution: University of Aveiro
+      year: 2023
+    - course: MSc in Chemistry
+      institution: University of Aveiro
+      year: 2017
+    - course: BSc in Chemistry
+      institution: University of Aveiro
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +45,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:carlos.bornes@natur.cuni.cz'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/carlospbornes
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?user=micFH4sAAAAJ&hl
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/carlosbornes
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +73,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Carlos Bornes is a postdoctoral researcher at Charles University in Prague, Czech Republic. He is interested in characterizing porous materials using a combination of experimental methods such as solid-state NMR, vibrational spectroscopy, and inelastic neutron scattering, along with computational methods. Currently, his work focuses on developing machine-learning methods that enable long molecular dynamical simulations of zeolites under operando conditions, and the prediction of experimental observables such as NMR tensors.
