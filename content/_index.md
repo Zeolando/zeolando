@@ -13,19 +13,17 @@ sections:
        Zeolando is currently awaiting approval for funding from the **Marie Skłodowska-Curie Actions Postdoctoral Fellowships**
     design:
       columns: '1'
-      css_class: fullscreen
 
   - block: hero
     content:
-      title: |
+      title: 
+      text: 
 
-      #image:
-      #  filename: welcome.jpg
-      text: |
+        The **Zeolando** project aims to unveil the mysteries of zeolites under *operando* conditions by leveraging machine-learning accelerated molecular dynamic simulations and experimental methods such as Nuclear Magnetic Resonance and vibrational spectroscopies.
 
-        <div style="text-align: center;">The **Zeolando** project aims to unveil the mysteries of zeolites under *operando* conditions by leveraging machine-learning accelerated molecular dynamic simulations and experimental methods such as Nuclear Magnetic Resonance and vibrational spectroscopies.</div>
-
-        <div style="text-align: center;">Zeolando is currently awaiting approval for funding from the **Marie Skłodowska-Curie Actions Postdoctoral Fellowships**.</div>
+        Zeolando is currently awaiting approval for funding from the **Marie Skłodowska-Curie Actions Postdoctoral Fellowships**.
+    design:
+      columns: '1'
   #
   #- block: collection
   #  content:
