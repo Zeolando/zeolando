@@ -8,33 +8,33 @@ sections:
   - block: hero
     content:
       title: |
-        
+
       #image:
       #  filename: welcome.jpg
       text: |
 
-        The **Zeolando** project aims to unveil the mysteries of zeolites under *operando* conditions by leveraging machine-learning accelerated molecular dynamic simulations and experimental methods such as Nuclear Magnetic Resonance and vibrational spectroscopies.
+        <div style="text-align: center;">The **Zeolando** project aims to unveil the mysteries of zeolites under *operando* conditions by leveraging machine-learning accelerated molecular dynamic simulations and experimental methods such as Nuclear Magnetic Resonance and vibrational spectroscopies.</div>
 
-        Zeolando is currently awaiting approval for funding from the **Marie Skłodowska-Curie Actions Postdoctoral Fellowships**.
-  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
+        <div style="text-align: center;">Zeolando is currently awaiting approval for funding from the **Marie Skłodowska-Curie Actions Postdoctoral Fellowships**.</div>
+  #
+  #- block: collection
+  #  content:
+  #    title: Latest News
+  #    subtitle:
+  #    text:
+  #    count: 5
+  #    filters:
+  #      author: ''
+  #      category: ''
+  #      exclude_featured: false
+  #      publication_type: ''
+  #      tag: ''
+  #    offset: 0
+  #    order: desc
+  #    page_type: post
+  #  design:
+  #    view: card
+  #    columns: '1'
   
   - block: markdown
     content:
