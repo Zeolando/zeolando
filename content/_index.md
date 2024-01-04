@@ -9,9 +9,9 @@ sections:
     content:
       title: 
       text: |
-        <div style="text-align: center; font-size: 2em;">The **Zeolando** project aims to unveil the mysteries of zeolites under *operando* conditions by leveraging machine-learning accelerated molecular dynamic simulations and experimental methods such as Nuclear Magnetic Resonance and vibrational spectroscopies.</div>
+        <p style="text-align: center; font-size: 1.5em;">The <strong>Zeolando</strong> project aims to unveil the mysteries of zeolites under <em>operando</em> conditions by leveraging machine-learning accelerated molecular dynamic simulations and experimental methods such as Nuclear Magnetic Resonance and vibrational spectroscopies.</p>
 
-        <div style="text-align: center; font-size: 2em;">Zeolando is currently awaiting approval for funding from the **Marie Skłodowska-Curie Actions Postdoctoral Fellowships**.</div>
+        <p style="text-align: center; font-size: 1.5em;">Zeolando is currently awaiting approval for funding from the <strong>Marie Skłodowska-Curie Actions Postdoctoral Fellowships</strong>.</p>
 
   #
   #- block: collection
@@ -32,26 +32,26 @@ sections:
   #  design:
   #    view: card
   #    columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+  #
+  #- block: markdown
+  #  content:
+  #    title:
+  #    subtitle: ''
+  #    text:
+  #  design:
+  #    columns: '1'
+  #    background:
+  #      image: 
+  #        filename: coders.jpg
+  #        filters:
+  #          brightness: 1
+  #        parallax: false
+  #        position: center
+  #        size: cover
+  #        text_color_light: true
+  #    spacing:
+  #      padding: ['20px', '0', '20px', '0']
+  #    css_class: fullscreen
   
   - block: markdown
     content:
