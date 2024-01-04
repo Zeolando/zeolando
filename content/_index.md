@@ -7,11 +7,12 @@ type: landing
 sections:
   - block: hero
     content:
-      title:
+      title: 
       #image:
       #  filename: welcome.jpg
-      text: The Zeolando project aims to unveil the mysteries of zeolites under operando conditions by leveraging machine-learning accelerated molecular dynamic simulations including Nuclear Magnetic Resonance and vibrational spectroscopies.
-      Zeolando is currently awaiting approval for funding from the Marie Skłodowska-Curie Actions Postdoctoral Fellowships. We wish the project well in its quest for funding.
+      text: |
+      The **Zeolando** project aims to unveil the mysteries of zeolites under *operando* conditions by leveraging machine-learning accelerated molecular dynamic simulations and experimental methods such as Nuclear Magnetic Resonance and vibrational spectroscopies.
+      Zeolando is currently awaiting approval for funding from the **Marie Skłodowska-Curie Actions Postdoctoral Fellowships**.
   
   #- block: collection
   #  content:
