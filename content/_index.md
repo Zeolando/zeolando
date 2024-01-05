@@ -12,7 +12,6 @@ sections:
         <p style="text-align: center; font-size: 1.5em;">Zeolando is currently awaiting approval for funding from the <strong>Marie Skłodowska-Curie Actions Postdoctoral Fellowships</strong></p>
 
         <p style="text-align: center; font-size: 1.5em;">Keep visiting for more updates!.</p>
-
   #
   #- block: collection
   #  content:
@@ -33,17 +32,15 @@ sections:
   #    view: card
   #    columns: '1'
   #
-
   - block: markdown
     content:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-        {{% cta cta_link="./publication/" cta_text="See group work →" %}}
+        {{% cta_front_page cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta_front_page cta_link="./publication/" cta_text="See group work →" %}}
     design:
       columns: '2'
-
   - block: markdown
     content:
       title:
