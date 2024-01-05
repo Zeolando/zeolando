@@ -37,8 +37,8 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta_front_page cta_link="./people/" cta_text="Meet the team →" %}}
-        {{% cta_front_page cta_link="./publication/" cta_text="See group work →" %}}
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./publication/" cta_text="See group work →" %}}
     design:
       columns: '2'
   - block: markdown
