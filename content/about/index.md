@@ -9,7 +9,7 @@ sections:
     content:
       title: About the Project
       text: |
-        Zeolites are crystalline aluminosilicates with a unique nanoporous structures, that found a wide range of applications in catalysis, adsorption, separation, and environmental remediation. However, our understanding of how zeolites perform under *operando* conditions, i.e. condition used during the processes described above is still very limited.
+        Zeolites are crystalline aluminosilicates with a unique nanoporous structuremaking them versatile materials with a wide range of applications in catalysis, adsorption, separation, and environmental remediation. However, our understanding of how zeolites perform under *operando* conditions, i.e. condition used during the processes described above, is still very limited.
 
         The **Zeolando** (**Zeol**ite + Oper**ando**) project aims at unveilling the processes leading to the activity, selectivity, and deactivation of zeolite under *operando* conditions. To achieve this, the project will:
 
@@ -17,7 +17,7 @@ sections:
 
         - Use reactuve NNPs to explore mechanism of deactivation and dynamical behaviour of of Aluminum- and **Tin-containing zeolites** at *operando* conditions.
 
-        - Explore the hability of equivariant NNPs to predict tensorial properties such as NMR Born effective charge tensors.    
+        - Explore the hability of equivariant NNPs to predict tensorial properties such as NMR Born effective charge tensors.
         
         – Investigate behaviour of zeolite catalysts at *operando* conditions using spectroscopic methods, such as solid-state NMR and vibrational spectroscopies.
 
