@@ -19,7 +19,7 @@ sections:
 
         - Explore the hability of equivariant NNPs to predict tensorial properties such as NMR Born effective charge tensors.
         
-        – Investigate behaviour of zeolite catalysts at *operando* conditions using spectroscopic methods, such as solid-state NMR and vibrational spectroscopies.
+        - Investigate behaviour of zeolite catalysts at *operando* conditions using spectroscopic methods, such as solid-state NMR and vibrational spectroscopies.
 
         The Zeolando project holds immense promise for revolutionizing our understanding of zeolites and paving the way for their development as next-generation materials with enhanced efficiency and sustainability.
 
