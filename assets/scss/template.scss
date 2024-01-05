@@ -9,8 +9,7 @@
   flex-direction: row;
 }
 
-// Styles for the CTA buttons on the front page
-.cta_front_page {
-  justify-content: center;
-  flex-direction: row;
+.cta-front-page {
+  display: flex;
+  justify-content: space-between;
 }
