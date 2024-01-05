@@ -9,9 +9,9 @@ sections:
     content:
       title: 
       text: |
-        <p style="text-align: center; font-size: 1.5em;">The <strong>Zeolando</strong> project aims to unveil the mysteries of zeolites under <em>operando</em> conditions by leveraging machine-learning accelerated molecular dynamic simulations and experimental methods such as Nuclear Magnetic Resonance and vibrational spectroscopies.</p>
+        <p style="text-align: center; font-size: 1.5em;">Zeolando is currently awaiting approval for funding from the <strong>Marie Skłodowska-Curie Actions Postdoctoral Fellowships</strong></p>
 
-        <p style="text-align: center; font-size: 1.5em;">Zeolando is currently awaiting approval for funding from the <strong>Marie Skłodowska-Curie Actions Postdoctoral Fellowships</strong>.</p>
+        <p style="text-align: center; font-size: 1.5em;">Keep visiting for more updates!.</p>
 
   #
   #- block: collection
